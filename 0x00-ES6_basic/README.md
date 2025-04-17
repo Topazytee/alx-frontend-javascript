@@ -1,6 +1,6 @@
 # alx-frontend-javascript | 0x00. ES6 Basics
 
-Description:bulb:
+~ Description:bulb:
 Javascript ES6
 
 What ES6 is
@@ -42,6 +42,7 @@ foo@pop-os:~$ npm install --save-dev jest
 foo@pop-os:~$ npm install --save-dev babel-jest @babel/core @babel/preset-env
 foo@pop-os:~$ npm install --save-dev eslint
 .eslintrc.js
+
 Files:card_file_box:
 0. Const or let?
 1. Block Scope
